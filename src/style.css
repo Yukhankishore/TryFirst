@@ -1,0 +1,24 @@
+body{
+    background-color: #2B3139;
+    display: flex;
+    justify-content: center;
+}
+.head{
+    height: 20px;
+}
+h1{
+    color:#ffff;
+}
+.button{
+    text-align: center;
+    display: block;
+    background-color: #F5C160;
+    border: none;
+    text-decoration: none;
+    padding: 10px;
+    margin:  5px;
+    height: 20px;
+    border-radius:30px;
+    margin-left: 30px;
+    cursor: pointer;
+}
